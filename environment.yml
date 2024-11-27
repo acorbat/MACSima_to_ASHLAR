@@ -1,0 +1,9 @@
+name: macs_to_ashlar
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python
+  - jupyterlab
+  - pydantic
+  - pandas
